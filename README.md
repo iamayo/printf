@@ -1,6 +1,6 @@
-## The Printf Project
+# The Printf Project
 
-# Write your own printf function
+## Write your own printf function
 
 | s/n | Description                                           | name          |
 | --- | ----------------------------------------------------- | ------------- |
