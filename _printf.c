@@ -20,6 +20,7 @@ int _printf(const char *format, ...)
 	converter formatchar[] = {
 		{"s", _printString},
 		{"i", _printInt},
+		{"d", _printInt},
 		{"f", _printFloat},
 		{"c", _printChar},
 		{"%", _printCent},
